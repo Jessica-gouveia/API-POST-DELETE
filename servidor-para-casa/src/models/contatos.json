@@ -1,0 +1,62 @@
+[
+    {
+      "id": "1",
+      "nome": "Bey",
+      "celular": "(11)99178630",
+      "redesSociais": "@beyonce"
+    },
+    {
+      "id": "2",
+      "nome": "Riri",
+      "celular": "(21)983729320",
+      "redesSociais": "@riri10_10"
+    },
+    {
+        "id": "3",
+        "nome":"The Weeknd",
+        "celular":"(11)981234356",
+        "redesSociais": "@theweeknd"
+    },
+    {
+        "id": "4",
+        "nome":"Jason Momoa",
+        "celular":"(81)997877774",
+        "redesSociais": "@prideofgypsies"
+    },
+    {
+        "id": "5",
+        "nome": "Michael B Jordan",
+        "celular": "(11)933456789",
+        "redesSociais": "@michaelbjordan"
+    },
+    {
+        "id": "6",
+        "nome": "Anthony Kiedis",
+        "celular": "(11)968562036",
+        "redesSociais": "@chilipeppers"
+    },
+    {
+        "id": "7",
+        "nome": "John Krasinski",
+        "celular": "(11)991409987",
+        "redesSociais": "@johnkrasinski" 
+    },
+    {
+        "id": "8",
+        "nome": "Zac Efron",
+        "celular": "(11)968567890",
+        "redesSociais": "@zacefron"
+    },
+    {
+        "id": "9",
+        "nome": "Idris Elba",
+        "celular": "(11)945678923",
+        "redesSociais": "@idriselba"
+    },
+    {
+        "id": "10",
+        "nome": "Michele Morrone",
+        "celular": "(11)968562036",
+        "redesSociais": "@iammichelemorrone"
+    }
+  ]
